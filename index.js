@@ -1,1 +1,1 @@
-var a=1;console.log(a)
+var name = 123;
